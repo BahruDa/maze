@@ -1,5 +1,6 @@
 #ifndef COORDINATES_H
 #define COORDINATES_H
+#include <SDL2/SDL.h>
 
 /**
  * struct point_s - data structure for XY point coordinates of type double
