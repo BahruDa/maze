@@ -33,4 +33,3 @@ bool initSDL(void)
 
     return success;
 }
-
