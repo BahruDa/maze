@@ -1,0 +1,10 @@
+Compiling C:\Users\bbbbbbb\maze\src\initSDL on 16-Jul-23 at 20:53
+*** Error 18 "C:\Users\bbbbbbb\maze\src\initSDL.c" Line 1(9,17): File can not be opened
+    Not in source "C:\Users\bbbbbbb\maze\src\maze.h"
+    Not in local "maze.h"
+    Not in project "C:\Users\bbbbbbb\maze\src\maze.h"
+    Not in default "C:\Users\bbbbbbb\maze\src\maze.h"
+    Not in "C:\Program Files (x86)\PICC\Devices\maze.h"
+    Not in "C:\Program Files (x86)\PICC\Drivers\maze.h"
+*** Error 128 "C:\Users\bbbbbbb\maze\src\initSDL.c" Line 1(9,16): A #DEVICE required before this line
+*** Error 48 "C:\Users\bbbbbbb\maze\src\initSDL.c" Line 3(1,11): Expecting a (

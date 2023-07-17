@@ -9,9 +9,8 @@
  */
 typedef struct point_s
 {
-        double x;
-        double y;
+	double x;
+	double y;
 } point_t;
 
 #endif /* STRUCTS_H */
-
